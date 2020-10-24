@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* changed .header to header */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -24,6 +25,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
+/* changed div to nav */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -50,6 +52,7 @@ p {
     font-size: 16px;
 }
 
+/* changed .hero to figure */
 figure {
     height: 800px;
     width: 100%;
@@ -69,6 +72,7 @@ figure {
     margin-left: 25px;
 }
 
+/* changed .content to section */
 section {
     width: 75%;
     display: inline-block;
@@ -188,6 +192,7 @@ section {
     font-size: 36px;
 }
 
+/* changed .footer to footer */
 footer {
     padding: 30px;
     clear: both;
