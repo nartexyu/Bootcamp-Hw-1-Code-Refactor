@@ -25,7 +25,7 @@ CSS
     .footer to footer   
    
 Screenshot:    
-![alt text](https://github.com/nartexyu/Refactor-HW/blob/main/refactor.jpg?raw=true)   
+![Screenshot](refactor.jpg)
    
 Link:   
 https://nartexyu.github.io/Refactor-HW/   
